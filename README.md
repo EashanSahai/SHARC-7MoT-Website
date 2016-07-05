@@ -1,7 +1,4 @@
-#Flatfy - Theme | New Version!
+# The SHARC 7 Minute of Terror Website
 
-##Responsive Mobile & Flat Design 
-Own Carousel & Bootstrap Framework CSS 
-Font Icon Svg & Animate
 
-Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
+Based on Flatfy Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
